@@ -1,0 +1,58 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Mahad Manzoor Personal Site",
+    "home_page_url": "http://localhost:3000",
+    "feed_url": "/home/mahadraja/workspace/react-portfolio/public/feed/projects/feed.json",
+    "description": "Empower your digital journey with a skilled Website Developer. Expert in ReactJS, JavaScript, Bootstrap, Sass and more. Elevate your web and mobile experience. Unleash innovation for impactful results. Let's build success together!",
+    "icon": "http://localhost:3000/favicon.ico",
+    "author": {
+        "name": "Mahad Manzoor",
+        "url": "https://twitter.com/mahadraja_offic"
+    },
+    "items": [
+        {
+            "id": "http://localhost:3000/projects/Docile - The Playful PHP Micro-framework",
+            "url": "http://localhost:3000/projects/Docile - The Playful PHP Micro-framework",
+            "title": "Docile - The Playful PHP Micro-framework",
+            "summary": "Docile is a charming and lightweight PHP microframework designed to bring simplicity and joy to your web applications and APIs.",
+            "date_modified": "2022-11-22T00:00:00.000Z",
+            "author": {
+                "name": "Mahad Manzoor",
+                "url": "https://twitter.com/mahadraja_offic"
+            }
+        },
+        {
+            "id": "http://localhost:3000/projects/Expense Tracker API with Spring Boot",
+            "url": "http://localhost:3000/projects/Expense Tracker API with Spring Boot",
+            "title": "Expense Tracker API with Spring Boot",
+            "summary": "This API allows users to track and visualize their expenses through an expense chart, providing insights into the trends of increasing or decreasing expenses over time.",
+            "date_modified": "2022-11-21T00:00:00.000Z",
+            "author": {
+                "name": "Mahad Manzoor",
+                "url": "https://twitter.com/mahadraja_offic"
+            }
+        },
+        {
+            "id": "http://localhost:3000/projects/QuickPaisa - QR Payment App",
+            "url": "http://localhost:3000/projects/QuickPaisa - QR Payment App",
+            "title": "QuickPaisa - QR Payment App",
+            "summary": "With QuickPaisa, users can easily make payments to brands by scanning their unique QR codes, eliminating the need for cash or card transactions.",
+            "date_modified": "2022-11-21T00:00:00.000Z",
+            "author": {
+                "name": "Mahad Manzoor",
+                "url": "https://twitter.com/mahadraja_offic"
+            }
+        },
+        {
+            "id": "http://localhost:3000/projects/SpotCheck - Location Tracking App",
+            "url": "http://localhost:3000/projects/SpotCheck - Location Tracking App",
+            "title": "SpotCheck - Location Tracking App",
+            "summary": "SpotCheck is a powerful location tracking app designed to help users automate their phone's settings based on their current location.",
+            "date_modified": "2022-11-21T00:00:00.000Z",
+            "author": {
+                "name": "Mahad Manzoor",
+                "url": "https://twitter.com/mahadraja_offic"
+            }
+        }
+    ]
+}

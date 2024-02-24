@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Mahad Manzoor Personal Site</title>
+        <link>http://localhost:3000</link>
+        <description>Empower your digital journey with a skilled Website Developer. Expert in ReactJS, JavaScript, Bootstrap, Sass and more. Elevate your web and mobile experience. Unleash innovation for impactful results. Let's build success together!</description>
+        <lastBuildDate>Sat, 24 Feb 2024 19:42:53 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en_US</language>
+        <image>
+            <title>Mahad Manzoor Personal Site</title>
+            <url>http://localhost:3000/favicon.ico</url>
+            <link>http://localhost:3000</link>
+        </image>
+        <copyright>All rights reserved 2024, Mahad Manzoor</copyright>
+        <item>
+            <title><![CDATA[Docile - The Playful PHP Micro-framework]]></title>
+            <link>http://localhost:3000/projects/Docile - The Playful PHP Micro-framework</link>
+            <guid>http://localhost:3000/projects/Docile - The Playful PHP Micro-framework</guid>
+            <pubDate>Tue, 22 Nov 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Docile is a charming and lightweight PHP microframework designed to bring simplicity and joy to your web applications and APIs.]]></description>
+            <author>mahadmnzr@gmail.com (Mahad Manzoor)</author>
+        </item>
+        <item>
+            <title><![CDATA[Expense Tracker API with Spring Boot]]></title>
+            <link>http://localhost:3000/projects/Expense Tracker API with Spring Boot</link>
+            <guid>http://localhost:3000/projects/Expense Tracker API with Spring Boot</guid>
+            <pubDate>Mon, 21 Nov 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[This API allows users to track and visualize their expenses through an expense chart, providing insights into the trends of increasing or decreasing expenses over time.]]></description>
+            <author>mahadmnzr@gmail.com (Mahad Manzoor)</author>
+        </item>
+        <item>
+            <title><![CDATA[QuickPaisa - QR Payment App]]></title>
+            <link>http://localhost:3000/projects/QuickPaisa - QR Payment App</link>
+            <guid>http://localhost:3000/projects/QuickPaisa - QR Payment App</guid>
+            <pubDate>Mon, 21 Nov 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[With QuickPaisa, users can easily make payments to brands by scanning their unique QR codes, eliminating the need for cash or card transactions.]]></description>
+            <author>mahadmnzr@gmail.com (Mahad Manzoor)</author>
+        </item>
+        <item>
+            <title><![CDATA[SpotCheck - Location Tracking App]]></title>
+            <link>http://localhost:3000/projects/SpotCheck - Location Tracking App</link>
+            <guid>http://localhost:3000/projects/SpotCheck - Location Tracking App</guid>
+            <pubDate>Mon, 21 Nov 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[SpotCheck is a powerful location tracking app designed to help users automate their phone's settings based on their current location.]]></description>
+            <author>mahadmnzr@gmail.com (Mahad Manzoor)</author>
+        </item>
+    </channel>
+</rss>
